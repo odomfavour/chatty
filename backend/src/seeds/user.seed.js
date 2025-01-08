@@ -9,37 +9,37 @@ const seedUsers = [
     email: 'emma.thompsom@eample.com',
     fullName: 'Emma Thompson',
     password: '123456',
-    profilePic: 'https://randomuser.me.api/portraits/women/1.jpg',
+    profilePic: 'https://randomuser.me/api/portraits/women/1.jpg',
   },
   {
     email: 'jane.thompsom@eample.com',
     fullName: 'Jane Thompson',
     password: '123456',
-    profilePic: 'https://randomuser.me.api/portraits/women/2.jpg',
+    profilePic: 'https://randomuser.me/api/portraits/women/2.jpg',
   },
   {
     email: 'olivia.miller@eample.com',
     fullName: 'Olivia Miller',
     password: '123456',
-    profilePic: 'https://randomuser.me.api/portraits/women/3.jpg',
+    profilePic: 'https://randomuser.me/api/portraits/women/3.jpg',
   },
   {
     email: 'Sophia.thompsom@eample.com',
     fullName: 'Sophia Thompson',
     password: '123456',
-    profilePic: 'https://randomuser.me.api/portraits/women/4.jpg',
+    profilePic: 'https://randomuser.me/api/portraits/women/4.jpg',
   },
   {
     email: 'SammyDave@eample.com',
     fullName: 'Sammy Dave',
     password: '123456',
-    profilePic: 'https://randomuser.me.api/portraits/men/1.jpg',
+    profilePic: 'https://randomuser.me/api/portraits/men/1.jpg',
   },
   {
     email: 'Tommy.lee@eample.com',
     fullName: 'Tommy Lee',
     password: '123456',
-    profilePic: 'https://randomuser.me.api/portraits/men/2.jpg',
+    profilePic: 'https://randomuser.me/api/portraits/men/2.jpg',
   },
 ];
 
